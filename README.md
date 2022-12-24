@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning React and Golang for web development  
   
 
-- ❓ Ask me about anything   
+- ❓  Ask me about anything   
   
 
 - ⚡ Fun fact: I use tabs over spaces  
@@ -105,4 +105,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
