@@ -81,7 +81,10 @@
 </a>
 <a href="https://linkedin.com/in/farrel-koh-8298b4142" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://gmail.com/](https://mail.google.com/mail/u/0/#inbox" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
   
 
 <br/>  
