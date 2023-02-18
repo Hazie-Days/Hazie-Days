@@ -85,14 +85,6 @@
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Hazie-Days&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=farrelkoh&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=4ea6b1" /></div>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Hazie-Days&&style=flat-square" align="center" />
 </div>  
