@@ -6,10 +6,10 @@
 ### <div align="center">Hi 👋, I'm Farrel, an undergraduate at NTU, aspiring to be an experienced full-stack developer.</div>  
   
 
-- 🔭 I’m currently looking for internships.
+- 🔭 I’m currently looking for Full-Time positions.
   
 
-- 🌱 I’m currently learning React and Golang for web development  
+- 🌱 I’m currently improving my coding abilities!
   
 
 - ❓  Ask me about anything   
