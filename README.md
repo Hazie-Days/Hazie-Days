@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">Hi 👋, I'm Farrel, an undergraduate at NTU, aspiring to be an experienced full-stack developer.</div>  
+### <div align="center">Hi 👋, I'm Farrel, a software engineer at Rakuten Asia.</div>  
   
 
-- 🔭 I’m currently looking for Full-Time positions.
+- 🔭 I’m currently handling DevOps tasks, creating architectures and software development with JAVA springboot and React.
   
 
-- 🌱 I’m currently improving my coding abilities!
+- 🌱 I’m currently creating Agentic workflow POCs!
   
 
 - ❓  Ask me about anything   
